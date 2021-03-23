@@ -1,14 +1,8 @@
-#  CS326 Final Project
+Completed work from edX course Programming for the Web with JavaScript. Completed in collaboration with Ethan Hyatt.
 
-## Group Members: Nick Gonzalez and Ethan Hyatt
+Link to course: https://www.edx.org/course/programming-for-the-web-with-javascript
 
-## Overview: We have completed all 6 homework assignments. This would put us at the end of Week 4's content therefore finishing the course.
-
-## Vision Statement: We aim to gain foundations of web programming by completing the edX course Programming for the Web with JavaScript. We will watch video lectures and complete weekly programming assignments utilizing technologies such as HTML, CSS, JavaScript, jQuery, and React.
-
-## Resources: We will be working with HTML, CSS, and JavaScript using the in-browser console. We will also be using technologies such as Node.js and MongoDB in later assignments. 
-
-## Syllabus: (Taken from Course Website)
+## Syllabus:
 
 ### Week 1: Web Programming Basics
  
@@ -18,7 +12,7 @@
  
  ### Week 4: Building Scalable Web Apps with Server-Side JavaScript
 
-## Deliverables: (Taken from Course Website)
+## Deliverables:
 
 ### Homework 1 - HTML
 In this assignment, you will modify an existing HTML page that uses inline style attributes so that it instead uses an external CSS file.
