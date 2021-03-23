@@ -1,4 +1,5 @@
 Completed work from edX course Programming for the Web with JavaScript. Completed in collaboration with Ethan Hyatt.
+
 Link to course: https://www.edx.org/course/programming-for-the-web-with-javascript
 
 ## Syllabus:
